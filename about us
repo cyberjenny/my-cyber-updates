@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+    </header>
+    <div class="container">
+        <h2>Our Mission</h2>
+        <p>We aim to provide comprehensive and accessible information on artificial intelligence and its applications. Our goal is to educate and inform individuals about the latest advancements in AI technology.</p>
+        <h2>Our Team</h2>
+        <p>Our team consists of experienced professionals in the field of AI, including researchers, developers, and educators. We are passionate about sharing our knowledge and expertise with the world.</p>
+    </div>
+</body>
+</html>
